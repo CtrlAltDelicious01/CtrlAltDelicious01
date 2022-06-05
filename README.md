@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CtrlAltDelicious01/CtrlAltDelicious01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there 👋
+I'm CtrlAltDelicious. I don't really post stuff here on Github. I only use GitHub to view repositories.
