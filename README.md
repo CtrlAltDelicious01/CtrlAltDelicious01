@@ -1,16 +1,19 @@
-### Hi there 👋
+# [ CtrlAltDelicious ]
 
-<!--
-**CtrlAltDelicious01/CtrlAltDelicious01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Julian Balagtas**, my online alias is **CtrlAltDelicious** and this is my GitHub profile. I'm still a developer who is learning and is interested in web development.
+I like to keep things minimal so I'll just put my information here.
+### Skills
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+### Learning
+- Javascript
+- Python
+### Profiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Discord  
+    - @ctrlaltdelicious
+- Twitter
+    - [@delicious_ctrl](https://twitter.com/delicious_ctrl)
+- Instagram
+    - [@ctrlaltdelicious._](https://instagram.com/ctrlaltdelicious._/?theme=dark)
